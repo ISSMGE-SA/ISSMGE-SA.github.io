@@ -1,7 +1,252 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ISSMGE Sudamérica - Sociedades Miembro</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding: 20px;
+            background-color: #f8f8f8;
+            border-radius: 5px;
+        }
+        .logo {
+            max-width: 200px;
+            margin-bottom: 20px;
+        }
+        h1 {
+            color: #005a87;
+            margin-bottom: 10px;
+        }
+        h2 {
+            color: #007baf;
+            margin: 30px 0 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        p {
+            margin-bottom: 20px;
+        }
+        .intro {
+            background-color: #f5f5f5;
+            padding: 20px;
+            border-radius: 5px;
+            margin-bottom: 30px;
+        }
+        .country-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .country-card {
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+            transition: box-shadow 0.3s ease;
+        }
+        .country-card:hover {
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        .country-name {
+            font-weight: bold;
+            color: #005a87;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+        .contact-info {
+            font-size: 0.9rem;
+        }
+        footer {
+            margin-top: 50px;
+            text-align: center;
+            padding: 20px;
+            background-color: #f8f8f8;
+            border-radius: 5px;
+            font-size: 0.9rem;
+        }
+        a {
+            color: #007baf;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .btn {
+            display: inline-block;
+            background-color: #007baf;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            margin-top: 15px;
+            transition: background-color 0.3s;
+        }
+        .btn:hover {
+            background-color: #005a87;
+            text-decoration: none;
+        }
+    </style>
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+    <header>
+        <img src="src/logo_issmge.jpg" alt="Logo ISSMGE" class="logo">
+        <h1>ISSMGE Sudamérica</h1>
+        <p>Sociedades Miembro de la Asociación Internacional de Mecánica de Suelos e Ingeniería Geotécnica</p>
+    </header>
+
+    <section class="intro">
+        <h2>Bienvenidos a ISSMGE Sudamérica</h2>
+        <p>La región sudamericana de la ISSMGE comprende 10 países miembros que trabajan juntos para promover la cooperación y el intercambio de conocimientos en el campo de la mecánica de suelos y la ingeniería geotécnica. Nuestra misión es fomentar el desarrollo técnico, la investigación y la práctica profesional en toda la región.</p>
+        <a href="https://issmgelatam.notion.site/199d62f562ea804ab189fc168b8964a4?v=199d62f562ea803aa4fa000cdc5295c5" class="btn">Calendario de actividades ISSMGE-SA</a>
+    </section>
+
+    <section>
+        <h2>Países Miembro</h2>
+        <p>La región de Sudamérica cuenta con las siguientes sociedades nacionales miembro:</p>
+        
+        <div class="country-list">
+            <div class="country-card">
+                <div class="country-name">Argentina</div>
+                <div class="contact-info">
+                    <p><strong>Sociedad:</strong> Sociedad Argentina de Ingeniería Geotécnica (SAIG)</p>
+                    <p><strong>Sitio web:</strong> <a href="http://www.saig.org.ar" target="_blank">www.saig.org.ar</a></p>
+                    <p><strong>Email:</strong> info@saig.org.ar</p>
+                </div>
+            </div>
+            
+            <div class="country-card">
+                <div class="country-name">Bolivia</div>
+                <div class="contact-info">
+                    <p><strong>Sociedad:</strong> Sociedad Boliviana de Geotecnia</p>
+                    <p><strong>Contacto:</strong> Por determinar</p>
+                </div>
+            </div>
+            
+            <div class="country-card">
+                <div class="country-name">Brasil</div>
+                <div class="contact-info">
+                    <p><strong>Sociedad:</strong> Associação Brasileira de Mecânica dos Solos e Engenharia Geotécnica (ABMS)</p>
+                    <p><strong>Sitio web:</strong> <a href="http://www.abms.com.br" target="_blank">www.abms.com.br</a></p>
+                    <p><strong>Email:</strong> abms@abms.com.br</p>
+                </div>
+            </div>
+            
+            <div class="country-card">
+                <div class="country-name">Chile</div>
+                <div class="contact-info">
+                    <p><strong>Sociedad:</strong> Sociedad Chilena de Geotecnia (SOCHIGE)</p>
+                    <p><strong>Sitio web:</strong> <a href="http://www.sochige.cl" target="_blank">www.sochige.cl</a></p>
+                    <p><strong>Email:</strong> directiva@sochige.cl</p>
+                </div>
+            </div>
+            
+            <div class="country-card">
+                <div class="country-name">Colombia</div>
+                <div class="contact-info">
+                    <p><strong>Sociedad:</strong> Sociedad Colombiana de Geotecnia</p>
+                    <p><strong>Sitio web:</strong> <a href="http://www.scg.org.co" target="_blank">www.scg.org.co</a></p>
+                    <p><strong>Email:</strong> info@scg.org.co</p>
+                </div>
+            </div>
+
+            <div class="country-card">
+                <div class="country-name">Costa Rica</div>
+                <div class="contact-info">
+                    <p><strong>Sociedad:</strong>Asociación Costarricense de Geotecnia</p>
+                    <p><strong>Sitio web:</strong> <a href="http://www.geotecniacr.com" target="_blank">geotecniacr.com</a></p>
+                    <p><strong>Email:</strong>acgeo@cfia.or.cr </p>
+                </div>
+            </div>
+
+            <div class="country-card">
+                <div class="country-name">Cuba</div>
+                <div class="contact-info">
+                    <p><strong>Sociedad:</strong>Comisión Técnica Nacional de Mecánica de Suelos e Ingeniería Geotécnica (CTNMSIG) </p>
+    
+                    <p><strong>Email:</strong>quevedo@uclv.edu.cu </p>
+                </div>
+            </div>
+            
+            <div class="country-card">
+                <div class="country-name">Guatemala</div>
+                <div class="contact-info">
+                    <p><strong>Sociedad:</strong> Asociación Guatemalteca de Mecánica de Suelos e Ingeniería Geotécnica (AMSIG)
+</p>
+                    <p><strong>Sitio web:</strong> <a href="http://www.amsig.org.gt" target="_blank">http://www.amsig.org.gt</a></p>
+                    <p><strong>Email:</strong>amsig.gt@gmail.com </p>
+                </div>
+            </div>
+            
+            <div class="country-card">
+                <div class="country-name">Paraguay</div>
+                <div class="contact-info">
+                    <p><strong>Sociedad:</strong> Sociedad Paraguaya de Geotecnia</p>
+                    <p><strong>Contacto:</strong> Por determinar</p>
+                </div>
+            </div>
+            
+            <div class="country-card">
+                <div class="country-name">Perú</div>
+                <div class="contact-info">
+                    <p><strong>Sociedad:</strong> Sociedad Peruana de Geotecnia</p>
+                    <p><strong>Sitio web:</strong> <a href="http://www.sociedadperuana.org" target="_blank">www.sociedadperuana.org</a></p>
+                    <p><strong>Email:</strong> info@sociedadperuana.org</p>
+                </div>
+            </div>
+            
+            <div class="country-card">
+                <div class="country-name">Uruguay</div>
+                <div class="contact-info">
+                    <p><strong>Sociedad:</strong> Sociedad Uruguaya de Mecánica de Suelos e Ingeniería Geotécnica</p>
+                    <p><strong>Contacto:</strong> Por determinar</p>
+                </div>
+            </div>
+            
+            <div class="country-card">
+                <div class="country-name">Venezuela</div>
+                <div class="contact-info">
+                    <p><strong>Sociedad:</strong> Sociedad Venezolana de Geotecnia</p>
+                    <p><strong>Sitio web:</strong> <a href="http://www.svdg.org.ve" target="_blank">www.svdg.org.ve</a></p>
+                    <p><strong>Email:</strong> info@svdg.org.ve</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Actividades Regionales</h2>
+        <p>ISSMGE Sudamérica organiza regularmente conferencias, talleres y cursos para fomentar el intercambio de conocimientos entre profesionales de la región. Manténgase actualizado sobre nuestros próximos eventos:</p>
+        <ul style="list-style-type: none; padding-left: 20px;">
+            <li>✓ Conferencias regionales</li>
+            <li>✓ Webinars técnicos</li>
+
+        </ul>
+    </section>
+
+    <section>
+        <h2>Contacto</h2>
+        <p>Para más información sobre ISSMGE Sudamérica o para ponerse en contacto con cualquiera de nuestras sociedades miembro, no dude en escribirnos</p>
+
+    </section>
+
+    <footer>
+        <p>&copy; 2025 ISSMGE Sudamérica - Todos los derechos reservados</p>
+        <p><a href="https://www.issmge.org" target="_blank">Sitio oficial de ISSMGE</a></p>
+    </footer>
 </body>
 </html>
