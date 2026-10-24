@@ -35,7 +35,7 @@ Nuestra misión es la **divulgación de las actividades de la ISSMGE en la regi�
 
 Sitio estático alojado en GitHub Pages. Mantenido por el Comité de Divulgación Técnica de ISSMGE Sudamérica.
 
-Webmaster: Jorge A. Arriagada Triana (@jarriagadat) · Universidad de Valparaíso, Chile
+Webmaster: Jorge A. Arriagada Triana ([@jarriagadat](https://github.com/jarriagadat)) · Universidad de Valparaíso, Chile
 
 ---
 
@@ -66,7 +66,7 @@ Found outdated information, or want to share an event from your society?
 
 Static site hosted on **GitHub Pages**. Maintained by the Technical Outreach Committee of ISSMGE South America.
 
-Webmaster: Jorge A. Arriagada Triana (@jarriagadat) · Universidad de Valparaíso, Chile
+Webmaster: Jorge A. Arriagada Triana ([@jarriagadat](https://github.com/jarriagadat)) · Universidad de Valparaíso, Chile
 
 ---
 
