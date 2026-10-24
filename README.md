@@ -1,10 +1,10 @@
 # ISSMGE Sudamérica 🌎
 
-**Sitio web regional de la ISSMGE para Sudamérica · Regional ISSMGE website for South America**
+**Sitio web regional de la ISSMGE para Sudamérica · Site regional da ISSMGE para a América do Sul · Regional ISSMGE website for South America**
 
 🔗 **[issmge-sa.github.io](https://issmge-sa.github.io)**
 
-[🇪🇸 Español](#-español) · [🇬🇧 English](#-english)
+[🇪🇸 Español](#-español) · [🇧🇷 Português](#-português) · [🇬🇧 English](#-english)
 
 ---
 
@@ -31,11 +31,30 @@ Nuestra misión es la **divulgación de las actividades de la ISSMGE en la regi�
 - Abre un [issue](../../issues) describiendo el cambio, o
 - Escríbenos por nuestras redes sociales.
 
-### Mantención
+---
 
-Sitio estático alojado en GitHub Pages. Mantenido por el Comité de Divulgación Técnica de ISSMGE Sudamérica.
+## 🇧🇷 Português
 
-Webmaster: Jorge A. Arriagada Triana ([@jarriagadat](https://github.com/jarriagadat)) · Universidad de Valparaíso, Chile
+### Sobre o projeto
+
+Este repositório contém o site da **ISSMGE América do Sul**, a região sul-americana da *International Society for Soil Mechanics and Geotechnical Engineering* (ISSMGE).
+
+Nossa missão é a **divulgação das atividades da ISSMGE na região**: conectar as sociedades membro, divulgar eventos e preservar a história da geotecnia sul-americana.
+
+### O que você encontra no site
+
+- **Sobre nós:** missão da região e Vice-Presidência para a América do Sul.
+- **Sociedades membro:** sociedades nacionais com seus presidentes e secretários.
+- **História:** Conferências Pan-Americanas (PANAM), Casagrande Lectures e Vice-Presidentes da região desde 1953.
+- **Eventos:** calendário de congressos, webinars e atividades.
+- **Equipe:** a equipe que mantém a região ativa.
+
+### Como colaborar?
+
+Encontrou alguma informação desatualizada ou quer divulgar um evento da sua sociedade?
+
+- Abra uma [issue](../../issues) descrevendo a alteração, ou
+- Fale conosco pelas nossas redes sociais.
 
 ---
 
@@ -62,20 +81,22 @@ Found outdated information, or want to share an event from your society?
 - Open an [issue](../../issues) describing the change, or
 - Reach out through our social media.
 
-### Maintenance
-
-Static site hosted on **GitHub Pages**. Maintained by the Technical Outreach Committee of ISSMGE South America.
-
-Webmaster: Jorge A. Arriagada Triana ([@jarriagadat](https://github.com/jarriagadat)) · Universidad de Valparaíso, Chile
-
 ---
 
-## 📲 Redes sociales · Social media
+## 📲 Redes sociales · Redes sociais · Social media
 
 [![Instagram](https://img.shields.io/badge/Instagram-issmge__sudamerica-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/issmge_sudamerica/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ISSMGE%20Sudamérica-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/94193939/)
 [![Facebook](https://img.shields.io/badge/Facebook-Issmgesudamerica-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/Issmgesudamerica/)
 
-## 🙏 Créditos · Credits
+### 🛠️ Mantención · Manutenção · Maintenance
 
-Plantilla base · Base template: [HTML Codex](https://htmlcodex.com) · Fotos · Photos: [Unsplash](https://unsplash.com) · Íconos · Icons: [IconScout](https://iconscout.com)
+- 🇪🇸 Sitio estático alojado en **GitHub Pages**. Mantenido por el Comité de Divulgación Técnica de ISSMGE Sudamérica.
+- 🇧🇷 Site estático hospedado no **GitHub Pages**. Mantido pelo Comitê de Divulgação Técnica da ISSMGE América do Sul.
+- 🇬🇧 Static site hosted on **GitHub Pages**. Maintained by the Technical Outreach Committee of ISSMGE South America.
+
+**Webmaster:** Jorge A. Arriagada Triana ([@jarriagadat](https://github.com/jarriagadat)) · Universidad de Valparaíso, Chile
+
+## 🙏 Créditos · Créditos · Credits
+
+Plantilla base · Template base · Base template: [HTML Codex](https://htmlcodex.com) · Fotos · Photos: [Unsplash](https://unsplash.com) · Íconos · Ícones · Icons: [IconScout](https://iconscout.com)
